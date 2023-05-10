@@ -1,4 +1,4 @@
-# Deploy web application in Elastic Bean Stack.Same Must be prepared with all the changes 
+# Deploy web application in Elastic Bean Stack.Same Must be prepared with all the changes Yes
 
 # Pre-Requisites
     Springboot Application
