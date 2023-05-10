@@ -1,4 +1,4 @@
-# Deploy web application in Elastic Bean Stack.Removed content in the last revision 
+# Deploy web application in Elastic Bean Stack.Removed content in the last revision.Latest version
 
 # Pre-Requisites
     Springboot Application
