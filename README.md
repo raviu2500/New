@@ -1,5 +1,4 @@
-# Deploy web application in Elastic Bean Stack.Same Must be prepared with all the changes Yes we can achive 
-
+# Deploy web application in Elastic Bean Stack.Same Must be prepared with all the changes Yes we can achive  Yes
 # Pre-Requisites
     Springboot Application
     Install Maven
