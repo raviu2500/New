@@ -1,4 +1,4 @@
-# Deploy web application in Elastic Bean Stack Anil is good person.Same are as usual to the network for new comers 
+# Deploy web application in Elastic Bean Stack.Removed content in the last revision 
 
 # Pre-Requisites
     Springboot Application
