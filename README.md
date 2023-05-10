@@ -1,4 +1,4 @@
-# Deploy web application in Elastic Bean Stack.Same Must be prepared with all the changes Yes we can achive  Yes all are same at the same time time can be achived to do the same version at a time to get benefitted at all the time to focus on all the revels to limit the issue once can be done for the free time to do the same can be achived to perform the issues to get at least to do the sake 
+# Deploy web application in Elastic Bean Stack.Same Must be prepared
 # Pre-Requisites
     Springboot Application
     Install Maven
