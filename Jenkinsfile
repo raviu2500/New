@@ -15,7 +15,7 @@ pipeline {
         }
         stage("Deploy") {
             steps {
-                 sh "sudo cp ./target/*.war /opt/apache-tomcat-10.1.8/webapps/springboot2.war"
+                 sh "sudo cp ./target/*.war /opt/apache-tomcat-10.1.8/webapps/springboot2.1.war"
             }
         }
     }
